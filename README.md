@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** Java (Core + OOP), Python, C (familiar)
 - **Frameworks:** Spring Boot, Hibernate
-- **Web:** HTML, CSS
+- **Web:** HTML, CSS, Javascript, React
 - **Database:** MySQL
 - **Tools:** Git, Docker (basic), IntelliJ IDEA, Postman
 
@@ -29,14 +29,14 @@
 ### 📫 How to reach me
 - ✉️ [Email](mailto:deveshkumar21110@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/deveshkumar21110/)
-- 🧑‍💻 Portfolio (coming soon): `devesh.site`
+- 🧑‍💻 Portfolio [Devesh](https://devesh.site)
 
 ---
 
 ### ⚡ Fun Facts
-- I type ~50–60 WPM 🚀  
-- I'm building my first full-stack app using **Spring Boot** and **React**  
-- I love contributing to open-source and building meaningful projects 💻
+- I type ~60-70 WPM 🚀  
+- I'm building full-stack apps using **Spring Boot** and **React**  
+
 
 ---
 
